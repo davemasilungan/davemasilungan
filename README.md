@@ -9,13 +9,13 @@ Software and QA engineer with 4+ years of experience.  Worked on large enterpris
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informationa&logo=typescript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&color=informational&logo=redux)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&color=informational&logo=jest)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&color=informational&logo=selenium.js)
-![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=warning&logo=tailwindcss)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&color=informational&logo=sass)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
 
 
 
