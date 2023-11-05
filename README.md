@@ -21,7 +21,7 @@ Software and QA engineer with 4+ years of experience.  Worked on large enterpris
 
 ## 💻 I'm Currently Learning
 ![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&color=warning&logo=playwright)
-Test automation with Playwright, an end-to-end testing framework. So far what I've liked is how it "auto" waits for actionable elements, and how it handles execution tracing and error logging. So far so good.
+Test automation with Playwright, an end-to-end testing framework. So far what I've liked is the ability to "auto" wait for actionable elements, and how it handles execution tracing and error logging. So far so good.
 
 
 
