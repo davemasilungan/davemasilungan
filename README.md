@@ -2,8 +2,8 @@
 
 <br/><br/>
 
-## 👋 Hello!
-I'm a QA and Software Engineer with 5+ years of experience.  Worked on large enterprise products, startup ventures, and an award-winning publication.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and exceed expectations.  
+## 👋 Hi & Welcome!
+I'm a QA and Software Engineer with 5+ years of experience. I've worked on large enterprise products, startup ventures, and an award-winning publication.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project, exceed expectations, and produce high-quality software experiences.  
 
 <br/><br/>
 
