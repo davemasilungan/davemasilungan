@@ -1,4 +1,4 @@
-[![Header](https://github.com/dhipflip/dhipflip/blob/main/banner.png?raw=true "Header")](https://github.com/dhipflip)  
+[![Header](https://github.com/davemasilungan/davemasilungan/blob/main/banner.png?raw=true "Header")](https://github.com/davemasilungan)  
 
 <br/><br/>
 
@@ -26,7 +26,7 @@ Test automation with Playwright, an end-to-end testing framework. Initial impres
 <br/><br/>
 
 ## 📊 Statistics
-[![Dave's github stats](https://github-readme-stats.vercel.app/api?username=dhipflip&theme=dark&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Dave's github stats](https://github-readme-stats.vercel.app/api?username=davemasilungan&theme=dark&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dhipflip/dhipflip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
