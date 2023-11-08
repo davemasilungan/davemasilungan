@@ -1,11 +1,11 @@
-[![Header](https://github.com/dhipflip/dhipflip/blob/main/banner.png?raw=true "Header")](https://github.com/dhipflip)
+[![Header](https://github.com/dhipflip/dhipflip/blob/main/banner.png?raw=true "Header")](https://github.com/dhipflip)  
 
-
+<br/><br/>
 
 ## 👋 Hello!
-I'm a QA and Software Engineer with 5+ years of experience.  Worked on large enterprise products, startup ventures, and an award-winning publication.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and exceed expectations. 
+I'm a QA and Software Engineer with 5+ years of experience.  Worked on large enterprise products, startup ventures, and an award-winning publication.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and exceed expectations.  
 
-
+<br/><br/>
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -15,15 +15,15 @@ I'm a QA and Software Engineer with 5+ years of experience.  Worked on large ent
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&color=informational&logo=jest)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&color=informational&logo=selenium.js)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&color=informational&logo=sass)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)  
 
-
+<br/><br/>
 
 ## 💻 I'm Currently Learning
 ![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&color=warning&logo=playwright)
-Test automation with Playwright, an end-to-end testing framework. Initial impressions are... I like the ability to "auto" wait for actionable elements, and how it handles execution tracing and error logging. So far so good. :+1: 
+Test automation with Playwright, an end-to-end testing framework. Initial impressions are... I like the ability to "auto" wait for actionable elements, and how it handles execution tracing and error logging. So far so good. :+1:  
 
-
+<br/><br/>
 
 ## 📊 Statistics
 [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=dhipflip&theme=dark&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
